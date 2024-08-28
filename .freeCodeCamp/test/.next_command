@@ -1,0 +1,202 @@
+psql --username=freecodecamp --dbname=periodic_table
+mkdir periodic_table
+cd periodic_table/
+git init
+git branch
+git checkout -b main
+git branch
+git branch
+git branchs
+git --help
+git status
+git checkout
+git branch list
+git branch
+cd ..
+rmdir periodic_table
+rm periodic_table/
+rm -f periodic_table
+rmdir -f periodic_table
+tree periodic_table/
+tree periodic_table
+ls --color=auto -a
+cd periodic_table/
+ls --color=auto -a
+rm -r periodic_table
+rm -r periodic_table/
+cd ..
+rm -r periodic_table/
+mkdir periodic_table
+git init
+cd periodic_table/
+git init
+git status
+git checkout -b main
+git status
+git add .
+git commit -m "Initial commit"
+builtin unset VSCODE_INJECTION
+[ -z "$VSCODE_SHELL_INTEGRATION" ]
+[ -n "${VSCODE_ENV_REPLACE:-}" ]
+[ -n "${VSCODE_ENV_PREPEND:-}" ]
+[ -n "${VSCODE_ENV_APPEND:-}" ]
+__vsc_regex_environment="^CYGWIN*|MINGW*|MSYS*"
+[[ "$(uname -s)" =~ $__vsc_regex_environment ]]
+__vsc_is_windows=0
+__vsc_regex_histcontrol=".*(erasedups|ignoreboth|ignoredups).*"
+[[ "$HISTCONTROL" =~ $__vsc_regex_histcontrol ]]
+__vsc_history_verify=1
+builtin unset __vsc_regex_environment
+builtin unset __vsc_regex_histcontrol
+__vsc_initialized=0
+__vsc_original_PS1="$PS1"
+__vsc_original_PS2="$PS2"
+__vsc_custom_PS1=""
+__vsc_custom_PS2=""
+__vsc_in_command_execution="1"
+__vsc_current_command=""
+__vsc_nonce="$VSCODE_NONCE"
+unset VSCODE_NONCE
+__vsc_stable="$VSCODE_STABLE"
+unset VSCODE_STABLE
+[ "$__vsc_stable" = "0" ]
+[[ -n "${bash_preexec_imported:-}" ]]
+__vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
+[[ -z "$__vsc_dbg_trap" ]]
+[[ "$__vsc_dbg_trap" != '__vsc_preexec "$_"' && "$__vsc_dbg_trap" != '__vsc_preexec_all "$_"' ]]
+trap '__vsc_preexec_all "$_"' DEBUG
+__vsc_original_prompt_command=${PROMPT_COMMAND:-}
+psql --username=freecodecamp --dbname=periodic_table
+git branch
+git branch main
+touch element.sh
+git status
+git add .
+git commit -m "Initial commit"
+git status
+git branch
+chmod +x element.sh
+./element.sh
+./element.sh
+./element.sh 1
+./element.sh H
+./element.sh Hydrogen
+./element.sh 2
+./element.sh 50
+./element.sh
+./element.sh 1
+./element.sh
+git branch
+git checkout -b feat/add-message-with-no-arguments
+nano element.sh
+git branch
+git checkout main
+git branch
+git status
+git branch -d feat/add-message-with-no-arguments
+rm element.sh
+git status
+git add
+git add .
+git status
+cd ..
+rmdir -r periodic_table/
+rm -r periodic_table
+cd periodic_table/
+ls --color=auto -a
+cd ..
+rm -r periodic_table/
+ls --color=auto
+rm -r periodic_table/
+ls --color=auto
+mkdir periodic_table
+cd periodic_table/
+git init
+touch element.sh
+chmod +x element.sh
+git status
+git checkout -b main
+git branch
+git status
+git add .
+git status
+git commit -m "Initial commit"
+git status
+git log
+git branch
+git checkout -b feat/add-no-args-message
+nano element.sh
+git log --oneline
+git diff
+git add .
+git commit -m "feat: add no args message"
+git status
+git checkout main
+git status
+nano element.sh
+git merge feat/add-no-args-message
+git status
+nano element.sh
+git branch -d feat/add-no-args-message
+git branch
+git checkout -b feat/add-var-for-database
+git status
+nano element.sh
+git status
+git add .
+git commit -m "feat: add var for database"
+git checkout main
+git merge feat/add-var-for-database
+nano element.sh
+git status
+git branch -d feat/add-var-for-database
+git checkout -b refactor/refactoring-no-args-message-display
+nano element.sh
+git status
+git add .
+git commit -m "refactor: refactoring no args message display"
+git checkout main
+git merge refactor/refactoring-no-args-message-display
+git branch
+git branch -d refactor/refactoring-no-args-message-display
+git branch
+git log
+git log --oneline
+git checkout -b feat/add-getting-elements-info-from-db
+nano element.sh
+git diff
+git status
+git add element.sh
+git commit -m "feat: add getting elements info from db"
+git status
+git log --oneline
+git checkout main
+git log --oneline
+git merge feat/add-getting-elements-info-from-db
+git log --oneline
+git branch -d feat/add-getting-elements-info-from-db
+git log --oneline
+git checkout -b feat/add-final-function
+nano element.sh
+git diff
+git status
+git add element.sh
+git commit -m "feat: add final function"
+git checkout main
+git merge feat/add-final-function
+git branch -d feat/add-final-function
+git log --oneline
+./element.sh 1
+./element.sh
+./element.sh 55
+./element.sh 50
+./element.sh 2
+./element.sh 3
+./element.sh 4
+./element.sh 5
+./element.sh 6
+./element.sh 7
+./element.sh 8
+./element.sh 9
+./element.sh 10
+./element.sh 11
