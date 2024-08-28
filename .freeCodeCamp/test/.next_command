@@ -200,3 +200,5 @@ git log --oneline
 ./element.sh 9
 ./element.sh 10
 ./element.sh 11
+pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table > periodic_table.sql
+pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
